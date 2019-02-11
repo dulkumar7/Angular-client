@@ -1,0 +1,10 @@
+--- 
+applications: 
+  - name: customer-app
+    path: dist/customer-app
+    buildpack: staticfile_buildpack
+    disk_quota: 32M
+    instances: 1
+    memory: 32M
+    
+    

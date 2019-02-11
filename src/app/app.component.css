@@ -4,3 +4,9 @@ h1{
 h3{
     color: cornflowerblue;
 }
+
+div {
+  border-style: groove;
+  border-color: blue;
+  border-width: 7px;
+}
